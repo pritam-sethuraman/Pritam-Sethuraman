@@ -2,16 +2,14 @@
 **Pritam-Sethuraman/Pritam-Sethuraman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![Cover Image](./assets/cover.jpg)
 
 # Hi there 👋
 
 ## 💫 About Me:
 🎓 Master's in Electrical and Computer Engineering from Concordia University<br>
-🌱 My key interests are in ASIC Design and Verification<br>
-💻 I'm proficient in VHDL, Verilog, SystemVerilog and UVM<br>
-👯 I’m looking to collaborate on projects related to ASIC design and verification<br>
-💬 Ask me about anything related to ASIC Design and Verification<br>
+🌱 My key interests are in Agentic AI Development<br>
+💻 I'm proficient in Python, Databricks, MosaicAI<br>
+👯 I’m looking to collaborate on projects related to GenAI and Agentic AI<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritam-sethuraman/) 
